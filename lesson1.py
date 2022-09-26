@@ -40,9 +40,9 @@
 #    print('кратно 5 и 10 или 15, но не 30')
 
 #x V y вывести значения. V- or /\ - and  не1 - not(1)
-#print('x y z f')
-#for x in range(2):
-#    for y in range(2):
-#        for z in range(2):
-#            f = x or y or z
-#            print(x, y, z, bool(f))
+print('x y z f')
+for x in range(2):
+   for y in range(2):
+       for z in range(2):
+           f = x or y or z
+           print(x, y, z, bool(f))
