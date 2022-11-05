@@ -178,7 +178,7 @@ print(r.color)
 print(r.square())
 print(r.get_r_p())
 t = Triangle('Red', 30, 40, False)
-rint(t.color)
+print(t.color)
 print(t.square())
 print(t.get_t_p())
 
